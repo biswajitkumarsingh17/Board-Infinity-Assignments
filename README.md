@@ -1,1 +1,1 @@
-# Board-infinity-assignments-
+# Board Infinity Assignments (Machine learning)
